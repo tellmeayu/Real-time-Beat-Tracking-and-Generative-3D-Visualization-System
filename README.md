@@ -19,5 +19,7 @@ By placing an organic, rhythm-driven form within a rigid geometric frame, the pr
 
 ## Author’s Note
 This project represents an early exploration of rhythm as a perceptual and embodied phenomenon rather than a purely temporal metric. It directly informed my later research focus on rhythmic structure, beat salience, and predictability in music technology and therapeutic contexts.
+
 The textures applied to the NURBS surfaces are based on abstract paintings created by a close friend and visual artist. Their gestural and non-figurative nature complements the project’s focus on rhythm-driven transformation, providing visual material that emphasizes movement, density, and variation over literal representation. 
+
 Artwork © **Xuan_Xena**, used with permission.
